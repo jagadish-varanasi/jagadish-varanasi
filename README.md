@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40JagadishBabuV)](https://twitter.com/JagadishBabuV)
-<h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=jagadish-varanasi"></h3>
 
- ![](https://komarev.com/ghpvc/?username=jagadish-varanasi)
